@@ -1,4 +1,4 @@
-# Homework: Git
+# Homework: Git-termianda
 
 ### Pre-requisitos
 

@@ -12,7 +12,7 @@
   </tr>
 </table>
 
-# Git y GitHub
+# Git y GitHub TERMINADO
 
 ## Comenzando a usar Git
 
